@@ -1,4 +1,4 @@
-package class_7;
+
 
 import java.util.Scanner;
 
